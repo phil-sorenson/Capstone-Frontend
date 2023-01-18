@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+FullCalendar limitations (w/o Premium):
+    - Might not be able to do tasks
+
+FullCalendar (+):
+    - External event dragging
+    - Able to set specific times 
+    - Different Themes (Litera, Lux Sketchy, Sandstone, FullCal Default  DARK THEME: Slate, Solar, Superhero
+    - ⭐Background Events (Potentially a way to block off certain days or time frames when system puts events into days for you)
